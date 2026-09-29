@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Rithan Gautham 👋
 
-<!--
-**RITHAN17/RITHAN17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Student | AI/ML | Data Analytics | RAG
 
-Here are some ideas to get you started:
+I'm an AI & Data Science student interested in building
+practical AI systems and intelligent applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🤖 AI & ML projects
+- 🧠 RAG and LLM applications
+- 📊 Data Analytics
+- ⚙️ AI Agents
+- 🔧 Embedded AI / TinyML
+
+## 🛠️ Tech Stack
+
+**Languages**
+Python • C • C++
+
+**AI / ML**
+Scikit-learn • TensorFlow • Pandas • NumPy
+
+**Tools**
+Git • GitHub • Jupyter • Google Colab
+
+## 📌 Featured Projects
+
+### ⚖️ JusticeMap
+Vernacular AI Legal Guide using a multi-agent architecture.
+
+### 🪑 Smart Automatic Ergonomic Chair
+An intelligent chair designed to monitor posture and
+automatically provide ergonomic adjustment.
+
+## 📚 Currently Learning
+
+- Docker
+- RAG
+- LLM applications
+- AI Agents
+- Cloud Computing
+
+## 🤝 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
