@@ -2,7 +2,7 @@
 
 # 🧠 RITHAN GAUTHAM
 
-### 💜 AI & Data Science Engineer
+### AI & Data Science Engineer
 
 <p>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
