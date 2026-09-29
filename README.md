@@ -12,7 +12,7 @@
 </p>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+Practical+AI+Systems;Exploring+RAG+%7C+LLMs+%7C+AI+Agents;Learning+Docker+%7C+Cloud+%7C+MLOps" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Building+Practical+AI+Systems;Exploring+RAG+%7C+LLMs+%7C+AI+Agents;Cloud+%7C+MLOps" />
 
 <br>
 
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/GitHub-RITHAN17-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rithan-gautham-/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
