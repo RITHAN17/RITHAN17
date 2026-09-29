@@ -1,46 +1,49 @@
-# Hi, I'm Rithan Gautham 👋
+╔══════════════════════════════════════════════╗
+║        🚀 RITHAN GAUTHAM                    ║
+║        AI & DATA SCIENCE ENGINEER            ║
+║                                              ║
+║   🤖 AI/ML  •  🧠 LLM  •  📊 Data           ║
+║   🔎 RAG   •  ⚙️ AI Agents • ☁️ Cloud       ║
+╚══════════════════════════════════════════════╝
 
-### AI & Data Science Student | AI/ML | Data Analytics | RAG
+        👨‍💻 ABOUT ME
+──────────────────────────────────────────────
 
-I'm an AI & Data Science student interested in building
-practical AI systems and intelligent applications.
+Building practical AI systems and exploring
+the intersection of AI, data and intelligent
+automation.
 
-## 🚀 What I'm Working On
+        🛠️ TECH STACK
 
-- 🤖 AI & ML projects
-- 🧠 RAG and LLM applications
-- 📊 Data Analytics
-- ⚙️ AI Agents
-- 🔧 Embedded AI / TinyML
+🐍 Python     🤖 TensorFlow     🧠 Scikit-learn
+📊 Pandas     🔢 NumPy         🗄️ SQL
+🔎 RAG        🦙 LLMs          ⚙️ AI Agents
+🐳 Docker     ☁️ Cloud         🔧 Git/GitHub
 
-## 🛠️ Tech Stack
+        🚀 FEATURED PROJECTS
 
-**Languages**
-Python • C • C++
+⚖️ JusticeMap
+Vernacular AI Legal Guide
 
-**AI / ML**
-Scikit-learn • TensorFlow • Pandas • NumPy
+🪑 Smart Automatic Ergonomic Chair
+AI + Embedded + Sensors
 
-**Tools**
-Git • GitHub • Jupyter • Google Colab
+🚗 Car Price Prediction
+Machine Learning
 
-## 📌 Featured Projects
+        📊 GITHUB ACTIVITY
 
-### ⚖️ JusticeMap
-Vernacular AI Legal Guide using a multi-agent architecture.
+        🔥 Contributions
+        ⭐ Repositories
+        👥 Followers
 
-### 🪑 Smart Automatic Ergonomic Chair
-An intelligent chair designed to monitor posture and
-automatically provide ergonomic adjustment.
+        📚 CURRENTLY LEARNING
 
-## 📚 Currently Learning
+🐳 Docker
+🧠 Advanced RAG
+🤖 Agentic AI
+☁️ Cloud Computing
 
-- Docker
-- RAG
-- LLM applications
-- AI Agents
-- Cloud Computing
+        🤝 CONNECT WITH ME
 
-## 🤝 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL)
+💼 LinkedIn     🐙 GitHub
